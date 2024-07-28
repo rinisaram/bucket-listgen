@@ -19,7 +19,7 @@ This project is a simple web application that allows users to generate a bucket 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/my-bucket-list.git
+   git clone https://github.com/yourusername/my-bucket-list.git](https://github.com/rinisaram/bucket-listgen.git
 
 2. Navigate to the project directory:
 
